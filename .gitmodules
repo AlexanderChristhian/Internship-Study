@@ -1,0 +1,3 @@
+[submodule "main_file"]
+	path = main_file
+	url = https://github.com/AlexanderChristhian/Submission_Checker.git
